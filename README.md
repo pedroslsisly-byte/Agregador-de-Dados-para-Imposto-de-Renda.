@@ -1,2 +1,16 @@
-# Agregador-de-Dados-para-Imposto-de-Renda.
-"Agregador de dados financeiro em Excel/Calc para organizar, validar e consolidar informações do Imposto de Renda. Criado no desafio prático da DIO, o projeto destaca-se por menus interativos, validação via listas suspensas e cálculos automatizados com fórmulas avançadas, tudo em uma interface limpa e intuitiva. Desenvolvido por Sisly Pedro."
+# 📊 Projeto Excel - Análise de Dados
+
+## 📌 Descrição
+Este projeto foi desenvolvido como trabalho final da DIO, utilizando Excel para análise de dados.
+
+## 🚀 Funcionalidades
+- Organização de dados
+- Criação de relatórios
+- Análise visual com gráficos
+
+## 🛠️ Ferramentas utilizadas
+- Microsoft Excel
+
+## 📁 Arquivo do projeto
+O arquivo principal está disponível neste repositório:
+TRABALHO DIO final.xlsx
